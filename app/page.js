@@ -7,7 +7,7 @@ export default function Home() {
           Электробезопасность будущего
         </h1>
         <p className="text-xl max-w-2xl mb-8">
-          ООО "СК Успех" — надежный партнер для Россети и Мособлэнерго
+          ООО &quot;СК Успех&quot; — надежный партнер для Россети и Мособлэнерго
         </p>
         <button className="bg-gradient-to-r from-blue-600 to-indigo-700 hover:from-blue-700 hover:to-indigo-800 text-white font-bold py-3 px-8 rounded-full transition-all duration-300 shadow-lg hover:shadow-xl">
           Заказать консультацию
@@ -37,7 +37,7 @@ export default function Home() {
               />
             </div>
             
-            {/* Временные логотипы (можно заменить на свои) */}
+            {/* Временные логотипы */}
             <div className="bg-white p-4 shadow-md rounded-lg flex items-center justify-center max-w-32">
               <img 
                 src="https://via.placeholder.com/150/92c952" 
